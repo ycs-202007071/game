@@ -1,3 +1,0 @@
-﻿  game.cpp
-D:\대학교관련\2-2\VC++\game\game\game.cpp(268,13): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
-  game.vcxproj -> D:\대학교관련\2-2\VC++\game\Debug\game.exe
